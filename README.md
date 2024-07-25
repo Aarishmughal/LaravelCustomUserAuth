@@ -180,7 +180,7 @@ public function logout(Request $request){
 
 ---
 
-\*_No explaination to these methods as there code is understandable and self-explanitory_
+\*_No explaination to these methods as their code is understandable and self-explanitory_
 
 ## 5. Make Views
 
