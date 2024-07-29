@@ -15,7 +15,7 @@ laravel new
 Make a new Controller in `Auth` Namespace in the Controllers Folder by using
 
 ```sh
-php artisan make:controller Auth\LoginRegisterController
+php artisan make:controller Auth/LoginRegisterController
 ```
 
 ## 3. Make Routes
